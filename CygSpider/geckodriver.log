@@ -1,0 +1,541 @@
+1518781739909	geckodriver	INFO	geckodriver 0.19.1
+1518781739916	geckodriver	INFO	Listening on 127.0.0.1:54549
+1518781741071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9bVrMRj4licP"
+1518781741350	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518781741836	Marionette	INFO	Enabled via --marionette
+1518781743400	Marionette	INFO	Listening on port 37661
+1518781743509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518781743566	Marionette	DEBUG	Register listener.js for window 2147483649
+1518781743610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518781744277	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518781744277	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518781746354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/details/?goodsCode=1621801291912220231"
+1518781753987	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/details/?goodsCode=1621801291912220231"
+1518781754794	Marionette	INFO	New connections will no longer be accepted
+[Child 12034] WARNING: pipe error (35): 连接被对方重设: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12034] WARNING: pipe error (19): 连接被对方重设: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12034] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518783431357	geckodriver	INFO	geckodriver 0.19.1
+1518783431361	geckodriver	INFO	Listening on 127.0.0.1:49929
+1518783432504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VKM7rDrYxtat"
+1518783432741	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518783433215	Marionette	INFO	Enabled via --marionette
+1518783434824	Marionette	INFO	Listening on port 42775
+1518783434924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518783434978	Marionette	DEBUG	Register listener.js for window 2147483649
+1518783435239	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518783444596	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518783444596	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518783454902	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1518783494936	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518783759089	geckodriver	INFO	geckodriver 0.19.1
+1518783759094	geckodriver	INFO	Listening on 127.0.0.1:49431
+1518783760239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.66C1B3FuBaXV"
+1518783760502	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518783760972	Marionette	INFO	Enabled via --marionette
+1518783763247	Marionette	INFO	Listening on port 43149
+1518783763299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518783763447	Marionette	DEBUG	Register listener.js for window 2147483649
+1518783764247	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518783764455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518783764455	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518783765575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518783780748	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518783869556	geckodriver	INFO	geckodriver 0.19.1
+1518783869561	geckodriver	INFO	Listening on 127.0.0.1:48503
+1518783870712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gsJSEARA3jdp"
+1518783870950	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518783871409	Marionette	INFO	Enabled via --marionette
+1518783873474	Marionette	INFO	Listening on port 34901
+1518783873546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518783873641	Marionette	DEBUG	Register listener.js for window 2147483649
+1518783873961	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518783874125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518783874125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518783874803	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518783890322	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784196367	geckodriver	INFO	geckodriver 0.19.1
+1518784196372	geckodriver	INFO	Listening on 127.0.0.1:54445
+1518784197524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S79p3mUX3ZCA"
+1518784197756	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518784198225	Marionette	INFO	Enabled via --marionette
+1518784199853	Marionette	INFO	Listening on port 42199
+1518784199948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784200025	Marionette	DEBUG	Register listener.js for window 2147483649
+1518784200275	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518784201311	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518784201312	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518784202064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784212749	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518784233808	geckodriver	INFO	geckodriver 0.19.1
+1518784233812	geckodriver	INFO	Listening on 127.0.0.1:59495
+1518784234961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dhHGfxpd0Gj5"
+1518784235200	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518784235664	Marionette	INFO	Enabled via --marionette
+1518784237428	Marionette	INFO	Listening on port 44195
+1518784237496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784237592	Marionette	DEBUG	Register listener.js for window 2147483649
+1518784237868	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518784238681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518784238682	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518784239114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784247021	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784267364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518784392391	geckodriver	INFO	geckodriver 0.19.1
+1518784392396	geckodriver	INFO	Listening on 127.0.0.1:58117
+1518784393551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tZjHKxpGNBcN"
+1518784393791	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518784394272	Marionette	INFO	Enabled via --marionette
+1518784395940	Marionette	INFO	Listening on port 36255
+1518784395983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784396058	Marionette	DEBUG	Register listener.js for window 2147483649
+1518784396335	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518784396581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518784396583	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518784396966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784399482	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784419811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518784551007	geckodriver	INFO	geckodriver 0.19.1
+1518784551012	geckodriver	INFO	Listening on 127.0.0.1:46245
+1518784552177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xjuFYPryDBee"
+1518784552457	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518784552912	Marionette	INFO	Enabled via --marionette
+1518784554669	Marionette	INFO	Listening on port 45011
+1518784554698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784554761	Marionette	DEBUG	Register listener.js for window 2147483649
+1518784555043	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518784555230	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518784555230	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518784558152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784567388	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784587722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518784653814	geckodriver	INFO	geckodriver 0.19.1
+1518784653819	geckodriver	INFO	Listening on 127.0.0.1:58493
+1518784654972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fEcEV6Zf6QNQ"
+1518784655207	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518784655662	Marionette	INFO	Enabled via --marionette
+1518784657288	Marionette	INFO	Listening on port 41761
+1518784657391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784657457	Marionette	DEBUG	Register listener.js for window 2147483649
+1518784657715	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518784658501	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518784658501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518784659995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784665882	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518784686217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518784975429	geckodriver	INFO	geckodriver 0.19.1
+1518784975433	geckodriver	INFO	Listening on 127.0.0.1:52849
+1518784976578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CzbDUJMhdwNP"
+1518784976826	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518784977329	Marionette	INFO	Enabled via --marionette
+1518784979108	Marionette	INFO	Listening on port 35303
+1518784979204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518784979251	Marionette	DEBUG	Register listener.js for window 2147483649
+1518784979519	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518784979609	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518784979610	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518784980115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+JavaScript error: http://public.npt.changyou.com/assets/js/page/list/list.js?v=1.1.14, line 2: TypeError: headerSelect is undefined
+1518784985116	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518785045121	geckodriver	INFO	geckodriver 0.19.1
+1518785045125	geckodriver	INFO	Listening on 127.0.0.1:36681
+1518785046276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VblZjN9VSply"
+1518785046532	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518785047004	Marionette	INFO	Enabled via --marionette
+1518785048927	Marionette	INFO	Listening on port 35479
+1518785049006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518785049058	Marionette	DEBUG	Register listener.js for window 2147483649
+1518785049329	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518785050313	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518785050313	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518785053357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518785059585	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518785079911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518786820007	geckodriver	INFO	geckodriver 0.19.1
+1518786820011	geckodriver	INFO	Listening on 127.0.0.1:51635
+1518786821166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HqlqbjDOF1Cx"
+1518786821410	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518786821878	Marionette	INFO	Enabled via --marionette
+1518786823554	Marionette	INFO	Listening on port 45277
+1518786823603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518786823665	Marionette	DEBUG	Register listener.js for window 2147483649
+1518786823953	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518786824621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518786824621	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518786825079	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518786827636	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518786847957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518786925167	geckodriver	INFO	geckodriver 0.19.1
+1518786925171	geckodriver	INFO	Listening on 127.0.0.1:42531
+1518786926312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tXRuWnwQcYAq"
+1518786926559	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518786927018	Marionette	INFO	Enabled via --marionette
+1518786928821	Marionette	INFO	Listening on port 46275
+1518786928929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518786928995	Marionette	DEBUG	Register listener.js for window 2147483649
+1518786929399	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518786929837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518786929837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518786930330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518786942617	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518786962961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518786999205	geckodriver	INFO	geckodriver 0.19.1
+1518786999210	geckodriver	INFO	Listening on 127.0.0.1:44545
+1518787000359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gVQKuL0Fuh4n"
+1518787000593	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518787001063	Marionette	INFO	Enabled via --marionette
+1518787002615	Marionette	INFO	Listening on port 42843
+1518787002719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518787002779	Marionette	DEBUG	Register listener.js for window 2147483649
+1518787003077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518787003334	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518787003334	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518787006293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787012450	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787032779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518787062082	geckodriver	INFO	geckodriver 0.19.1
+1518787062086	geckodriver	INFO	Listening on 127.0.0.1:55819
+1518787063285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.53eYkD4SHY53"
+1518787063601	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518787064120	Marionette	INFO	Enabled via --marionette
+1518787065916	Marionette	INFO	Listening on port 41565
+1518787066006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518787066067	Marionette	DEBUG	Register listener.js for window 2147483649
+1518787066322	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518787066815	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518787066815	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518787072454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787076495	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787096824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518787224242	geckodriver	INFO	geckodriver 0.19.1
+1518787224247	geckodriver	INFO	Listening on 127.0.0.1:48425
+1518787225395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pLjl4cbfVm26"
+1518787225636	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518787226118	Marionette	INFO	Enabled via --marionette
+1518787227838	Marionette	INFO	Listening on port 33585
+1518787227915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518787227974	Marionette	DEBUG	Register listener.js for window 2147483649
+1518787228273	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518787232955	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518787232956	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518787241205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787247951	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1518787253779	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787274112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17345] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518787434709	geckodriver	INFO	geckodriver 0.19.1
+1518787434714	geckodriver	INFO	Listening on 127.0.0.1:56857
+1518787435880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CcWlVblXU6pc"
+1518787436122	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518787436591	Marionette	INFO	Enabled via --marionette
+1518787438404	Marionette	INFO	Listening on port 37947
+1518787438496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518787438557	Marionette	DEBUG	Register listener.js for window 2147483649
+1518787438848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518787445691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518787445692	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518787450178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787453773	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787474102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518787521899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Message: TypeError: this.nodeHierarchy[this.currentIndex] is undefined
+  Stack:
+    scroll@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:764:11
+update/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:910:9
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+console.error: 
+  Message: TypeError: this.nodeHierarchy[this.currentIndex] is undefined
+  Stack:
+    scroll@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:764:11
+update/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:910:9
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+console.error: 
+  Message: TypeError: this.nodeHierarchy[this.currentIndex] is undefined
+  Stack:
+    scroll@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:764:11
+update/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:910:9
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+console.error: 
+  Message: TypeError: this.nodeHierarchy[this.currentIndex] is undefined
+  Stack:
+    scroll@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:764:11
+update/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js:910:9
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.getContainer(...).editor is undefined
+Full stack: showNode/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:1134:30
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: this.getContainer(...).editor is undefined
+  Stack:
+    showNode/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:1134:30
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: null has no properties
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1518787855888	geckodriver	INFO	geckodriver 0.19.1
+1518787855892	geckodriver	INFO	Listening on 127.0.0.1:60219
+1518787857089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AH6fbnZoT2wg"
+1518787857370	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518787857852	Marionette	INFO	Enabled via --marionette
+1518787859748	Marionette	INFO	Listening on port 39823
+1518787859818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518787859878	Marionette	DEBUG	Register listener.js for window 2147483649
+1518787860225	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518787870794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518787870794	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518787872544	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787879899	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1518787887890	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518787908232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518788051894	geckodriver	INFO	geckodriver 0.19.1
+1518788051898	geckodriver	INFO	Listening on 127.0.0.1:57705
+1518788053060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.amVsn1G77rOm"
+1518788053370	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518788053935	Marionette	INFO	Enabled via --marionette
+1518788055851	Marionette	INFO	Listening on port 41671
+1518788055886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518788055955	Marionette	DEBUG	Register listener.js for window 2147483649
+1518788056274	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518788056531	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518788056531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518788057377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788066878	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788087540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518788147703	geckodriver	INFO	geckodriver 0.19.1
+1518788147714	geckodriver	INFO	Listening on 127.0.0.1:35955
+1518788149098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cFz8NPosmk9w"
+1518788149881	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518788151181	Marionette	INFO	Enabled via --marionette
+1518788155801	Marionette	INFO	Listening on port 44527
+1518788155864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518788156015	Marionette	DEBUG	Register listener.js for window 2147483649
+1518788156730	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518788157068	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518788157069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518788161050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788189550	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788210202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518788358971	geckodriver	INFO	geckodriver 0.19.1
+1518788358982	geckodriver	INFO	Listening on 127.0.0.1:41575
+1518788360492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aJIEhuPYxHDE"
+1518788361090	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518788362198	Marionette	INFO	Enabled via --marionette
+1518788367016	Marionette	INFO	Listening on port 45213
+1518788367064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518788367223	Marionette	DEBUG	Register listener.js for window 2147483649
+1518788368051	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518788374985	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518788374985	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518788376100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788379309	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788399895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518788526852	geckodriver	INFO	geckodriver 0.19.1
+1518788526862	geckodriver	INFO	Listening on 127.0.0.1:45061
+1518788528259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MgyTMoA8f5Me"
+1518788529052	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518788530430	Marionette	INFO	Enabled via --marionette
+1518788535292	Marionette	INFO	Listening on port 40773
+1518788535393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518788535603	Marionette	DEBUG	Register listener.js for window 2147483649
+1518788536320	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518788543548	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518788543549	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518788551385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788555727	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1518788593281	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788607560	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1518788613936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518788838059	geckodriver	INFO	geckodriver 0.19.1
+1518788838070	geckodriver	INFO	Listening on 127.0.0.1:46755
+1518788839443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1kUlAqmgj3vd"
+1518788840228	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518788841514	Marionette	INFO	Enabled via --marionette
+1518788846284	Marionette	INFO	Listening on port 45337
+1518788846401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518788846599	Marionette	DEBUG	Register listener.js for window 2147483649
+1518788847365	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518788847778	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518788847779	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518788848793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788856080	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518788876568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518789046644	geckodriver	INFO	geckodriver 0.19.1
+1518789046662	geckodriver	INFO	Listening on 127.0.0.1:58513
+1518789048132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z5Op4L589URE"
+1518789048931	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518789050486	Marionette	INFO	Enabled via --marionette
+1518789056000	Marionette	INFO	Listening on port 45559
+1518789056111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518789056241	Marionette	DEBUG	Register listener.js for window 2147483649
+1518789057078	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518789066144	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518789066144	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518789067099	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518789076250	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518789086982	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518789107938	geckodriver	INFO	geckodriver 0.19.1
+1518789107949	geckodriver	INFO	Listening on 127.0.0.1:51173
+1518789109499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pqfbR6LqsFzJ"
+1518789110406	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518789111828	Marionette	INFO	Enabled via --marionette
+1518789117191	Marionette	INFO	Listening on port 35113
+1518789117339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518789117606	Marionette	DEBUG	Register listener.js for window 2147483649
+1518789118428	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518789124773	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518789124774	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518789126189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518789130179	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518789160888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518790931611	geckodriver	INFO	geckodriver 0.19.1
+1518790931626	geckodriver	INFO	Listening on 127.0.0.1:44899
+1518790933037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qwrg1hheMbgB"
+1518790933662	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518790934960	Marionette	INFO	Enabled via --marionette
+1518790940175	Marionette	INFO	Listening on port 37347
+1518790940289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518790940457	Marionette	DEBUG	Register listener.js for window 2147483649
+1518790941720	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518790943309	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518790943310	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518790944915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518790949761	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518790980499	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 20658] WARNING: pipe error (35): 连接被对方重设: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20658] WARNING: pipe error (19): 连接被对方重设: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518791085016	geckodriver	INFO	geckodriver 0.19.1
+1518791085029	geckodriver	INFO	Listening on 127.0.0.1:40095
+1518791086570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WCOJW1wdO2t3"
+1518791087367	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518791088480	Marionette	INFO	Enabled via --marionette
+1518791093262	Marionette	INFO	Listening on port 44629
+1518791093340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518791093471	Marionette	DEBUG	Register listener.js for window 2147483649
+1518791094213	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518791094342	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518791094344	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518791095442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518791101937	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518791122606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20869] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518852614205	geckodriver	INFO	geckodriver 0.19.1
+1518852614218	geckodriver	INFO	Listening on 127.0.0.1:60993
+1518852615564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.G97F0jd1dtiR"
+1518852616157	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518852617248	Marionette	INFO	Enabled via --marionette
+1518852621573	Marionette	INFO	Listening on port 34023
+1518852621629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518852621765	Marionette	DEBUG	Register listener.js for window 2147483649
+1518852622685	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518852623879	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518852623880	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518852625130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518852630825	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518852651387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518853325736	geckodriver	INFO	geckodriver 0.19.1
+1518853325746	geckodriver	INFO	Listening on 127.0.0.1:51017
+1518853327099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NjlaIwDNHhhV"
+1518853327669	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518853328718	Marionette	INFO	Enabled via --marionette
+1518853332493	Marionette	INFO	Listening on port 40881
+1518853332549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518853332699	Marionette	DEBUG	Register listener.js for window 2147483649
+1518853333387	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518853333694	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518853333695	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518853334517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518853338411	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518853358872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518853513642	geckodriver	INFO	geckodriver 0.19.1
+1518853513652	geckodriver	INFO	Listening on 127.0.0.1:42841
+1518853515002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Guj2GyyjVEkj"
+1518853515567	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518853516618	Marionette	INFO	Enabled via --marionette
+1518853520624	Marionette	INFO	Listening on port 37663
+1518853520671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518853520822	Marionette	DEBUG	Register listener.js for window 2147483649
+1518853521606	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518853522329	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518853522330	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518853523650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518853527930	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518853548475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518854594804	geckodriver	INFO	geckodriver 0.19.1
+1518854594814	geckodriver	INFO	Listening on 127.0.0.1:49359
+1518854596166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XOqXi9vhKdbE"
+1518854596741	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518854597802	Marionette	INFO	Enabled via --marionette
+1518854601722	Marionette	INFO	Listening on port 46403
+1518854601839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518854601977	Marionette	DEBUG	Register listener.js for window 2147483649
+1518854602624	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518854604037	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518854604038	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518854604752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518854613518	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518854634014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518854824701	geckodriver	INFO	geckodriver 0.19.1
+1518854824712	geckodriver	INFO	Listening on 127.0.0.1:52731
+1518854826057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tAwSINqPI1n5"
+1518854826634	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518854827692	Marionette	INFO	Enabled via --marionette
+1518854831827	Marionette	INFO	Listening on port 33195
+1518854831944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518854832143	Marionette	DEBUG	Register listener.js for window 2147483649
+1518854832943	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518854833282	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518854833283	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518854834099	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518854841581	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518854862065	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518856122364	geckodriver	INFO	geckodriver 0.19.1
+1518856122375	geckodriver	INFO	Listening on 127.0.0.1:36989
+1518856123784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fm1ra6Fj08zs"
+1518856124385	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518856125441	Marionette	INFO	Enabled via --marionette
+1518856129317	Marionette	INFO	Listening on port 46565
+1518856129461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518856129597	Marionette	DEBUG	Register listener.js for window 2147483649
+1518856130324	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518856130658	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518856130659	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518856131437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518856155933	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518856176419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518856312036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518857201076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518859726400	geckodriver	INFO	geckodriver 0.19.1
+1518859726404	geckodriver	INFO	Listening on 127.0.0.1:60973
+1518859727544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ppm7YGAqVLYM"
+1518859727796	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1518859728288	Marionette	INFO	Enabled via --marionette
+1518859730010	Marionette	INFO	Listening on port 42467
+1518859730070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518859730167	Marionette	DEBUG	Register listener.js for window 2147483649
+1518859730552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518859731176	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518859731176	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518859731655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518859735785	Marionette	DEBUG	Received DOM event "pageshow" for "http://cyg.changyou.com/list#!gameId=16&sort=price,asc&area=%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA,%E7%94%B5%E4%BF%A1%E4%B8%80%E5%8C%BA&server=104,%E4%BE%A0%E5%AE%A2%E5%B2%9B,1004&goodsType=4"
+1518859756112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
